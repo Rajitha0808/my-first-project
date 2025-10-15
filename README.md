@@ -1,2 +1,3 @@
 HOTEL MENU-My first mini project
+
 This is a simple Java console-based mini project that simulates a restaurant menu ordering system. The program allows the user to select a dish from a predefined menu, specify the quantity, and then proceed with payment verification. Once the correct payment is entered, the order is successfully placed.
